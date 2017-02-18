@@ -8,13 +8,13 @@
 /run/media/moonlightf/Data/assets/2d/
 /run/media/moonlightf/Data/Mega/Pictures/Photos/
 [Recent]
+/run/media/moonlightf/Data/assets/mmd/BackGround/スカイドーム_朝日X8_配布物/Skydome_X8/
+/run/media/moonlightf/Data/assets/blender/Objects.Original/
+/run/media/moonlightf/Data/Mega/Pictures/Photos/
+/run/media/moonlightf/Data/Mega/Projects/done/20161111.music.cover.video.null - Chasing Fireflies/
+/run/media/moonlightf/Data/Mega/Projects/working.music.video.cover.捨て子のステラ - neru/Frames/
 /run/media/moonlightf/Data/Mega/Projects/working.music.video.cover.捨て子のステラ - neru/
 /run/media/moonlightf/Data/Mega/Pictures/Avatars/Feather/
 /home/moonlightf/画像/Avatars/Feather/
 /run/media/moonlightf/Data/fonts/
 /lnk/M/Pictures/Avatars/Feather/
-/run/media/moonlightf/Data/fonts/NotoSans/
-/run/media/moonlightf/Data/fonts/IPA family/
-/lnk/P/working.music.video.cover.捨て子のステラ - neru/
-/run/media/moonlightf/Data/Mega/Projects/temp/
-/run/media/moonlightf/Data/Mega/Projects/idea.environment.Dazhi Eagle 2010 recreation/
