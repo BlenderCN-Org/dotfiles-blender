@@ -1,0 +1,10 @@
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.mods.blend
+/run/media/flyin1501/Data/assets/2d/pixiv_default_thumbnail/Pixiv default thumbnail.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_perfect.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.numbers_score.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_grades.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/0.materials.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.background.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.hitobjects.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.pause_buttons.blend
