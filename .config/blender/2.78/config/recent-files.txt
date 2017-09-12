@@ -1,3 +1,5 @@
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.spinner.blend
+/tmp/untitled.blend
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.menu-back.blend
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.mods.blend
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.numbers_score.blend
@@ -6,5 +8,3 @@
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_perfect.blend
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_grades.blend
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/0.materials.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.background.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.hitobjects.blend

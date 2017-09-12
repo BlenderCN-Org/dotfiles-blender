@@ -1,0 +1,10 @@
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆ja.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆tc.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.menu-back☆tc☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.welcome☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.unranked☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ready_messages☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_perfect☆tc☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_panel☆en.blend
+/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_acc_combo☆en.blend

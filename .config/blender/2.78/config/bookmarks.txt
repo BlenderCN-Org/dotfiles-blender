@@ -4,6 +4,7 @@
 /run/media/flyin1501/Data/mega/Pictures/Photos/
 /run/media/flyin1501/Data/assets/fonts/
 [Recent]
+/tmp/
 /home/flyin1501/git/osuskin-rezeroscript/skin.Retome/
 /run/media/flyin1501/Data/assets/2d/pixiv_default_thumbnail/
 /run/media/flyin1501/Data/assets/fonts/GenJyuuGothic/
@@ -12,5 +13,4 @@
 /run/media/flyin1501/Data/assets/fonts/
 /run/media/flyin1501/Data/assets/fonts/リゼロ_イ文字/
 /run/media/flyin1501/Data/assets/blender/Addons/
-/tmp/
 /run/media/flyin1501/Data/mega/Projects/working.video.isotext pv/
