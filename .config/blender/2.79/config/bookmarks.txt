@@ -1,16 +1,19 @@
 [Bookmarks]
 /run/media/flyin1501/Data/assets/
 /run/media/flyin1501/Data/mega/Projects/
-/run/media/flyin1501/Data/mega/Pictures/Photos/
 /run/media/flyin1501/Data/assets/fonts/
-[Recent]
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/
 /tmp/
-/run/media/flyin1501/Data/assets/2d/pixiv_default_thumbnail/
-/run/media/flyin1501/Data/assets/fonts/GenJyuuGothic/
+/home/flyin1501/ドキュメント/photos/
+/usr/share/fonts/OTF/
+/usr/share/fonts/TTF/
+[Recent]
+/run/media/flyin1501/Data/assets/blender/
+/run/media/flyin1501/Data/assets/fonts/mgen+/
+/run/media/flyin1501/Data/mega/Projects/working.music.cover.utau.普通に歳をとるコトすら - 椎名もた/
+/run/media/flyin1501/Data/assets/mmd/Character/h_闇音レンリ/r/
+/run/media/flyin1501/Data/assets/mmd/Character/h_闇音レンリ/
+/run/media/flyin1501/Data/assets/fonts/JK Gothic/
 /run/media/flyin1501/Data/assets/fonts/honoka/honoka-min/
-/run/media/flyin1501/Data/assets/fonts/honoka/honoka-marugo/
-/run/media/flyin1501/Data/assets/fonts/
-/run/media/flyin1501/Data/assets/fonts/リゼロ_イ文字/
-/run/media/flyin1501/Data/assets/blender/Addons/
-/run/media/flyin1501/Data/mega/Projects/working.video.isotext pv/
+/run/media/flyin1501/Data/assets/fonts/harenosora/
+/run/media/flyin1501/Data/assets/fonts/hannari/
+/run/media/flyin1501/Data/assets/fonts/HanaMin/

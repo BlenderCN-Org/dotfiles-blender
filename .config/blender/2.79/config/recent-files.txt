@@ -1,10 +1,10 @@
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆ja.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆tc.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.skip☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendernormal.menu-back☆tc☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.welcome☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.unranked☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ready_messages☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_perfect☆tc☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_panel☆en.blend
-/home/flyin1501/git/osuskin-rezeroscript/skin.Retome/rendermarker.ranking_acc_combo☆en.blend
+/run/media/flyin1501/Data/assets/blender/network-slave.blend
+/run/media/flyin1501/Data/assets/blender/network-master.blend
+/run/media/flyin1501/Data/mega/Projects/working.music.cover.utau.普通に歳をとるコトすら - 椎名もた/video.blend
+/run/media/flyin1501/Data/mega/Projects/working.image.hanezeve-caradhina-language-construction/image.blend
+/run/media/flyin1501/Data/mega/Projects/working.music.cover.utau.SHIRO - 鼻そうめんP/vis.blend
+/home/flyin1501/git/mkosuskin/skin.Retome/numbers/numbers_dot.rendernormal.blend
+/home/flyin1501/git/mkosuskin/skin.Retome/numbers/numbers_jkgothic.rendernormal.blend
+/run/media/flyin1501/Data/mega/Projects/1.done/20170821.video.isotext pv/isotext.blend
+/run/media/flyin1501/Data/mega/Projects/working.music.cover.utau.終点 - まふまふ/vis.blend
+/home/flyin1501/git/mkosuskin/skin.Retome/ctb/fruit-drop.rendermarker.blend
